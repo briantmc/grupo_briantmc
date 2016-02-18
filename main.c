@@ -10,5 +10,5 @@ int main()
         c=c+1;
     }
     x=5+5;
-    printf("\n Modificacion = %d \n",x);
+    printf("\n Modificacion 2 briant = %d \n",x);
 }
